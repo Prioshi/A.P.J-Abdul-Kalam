@@ -1,0 +1,29 @@
+*{
+    margin:0;
+    padding:0;
+    font-family:arial;
+}
+body{
+    background-color: rgb(11, 77, 49);
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+h1{
+    color: white;
+    font-size: 50px;
+}
+h3{
+    color: white;
+    font-size: 45px;
+}
+.paragraph{
+    background-color: lightgreen;
+    width: 800px;
+    padding: 50px;
+    margin: 8px;
+    margin-left: 200px;
+    border: 15px solid yellow;
+}
